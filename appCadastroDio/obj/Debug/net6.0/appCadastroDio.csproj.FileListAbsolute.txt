@@ -1,0 +1,15 @@
+D:\DigitalInnovationOne\appCadastro\appCadastroDio\bin\Debug\net6.0\appCadastroDio.exe
+D:\DigitalInnovationOne\appCadastro\appCadastroDio\bin\Debug\net6.0\appCadastroDio.deps.json
+D:\DigitalInnovationOne\appCadastro\appCadastroDio\bin\Debug\net6.0\appCadastroDio.runtimeconfig.json
+D:\DigitalInnovationOne\appCadastro\appCadastroDio\bin\Debug\net6.0\appCadastroDio.dll
+D:\DigitalInnovationOne\appCadastro\appCadastroDio\bin\Debug\net6.0\ref\appCadastroDio.dll
+D:\DigitalInnovationOne\appCadastro\appCadastroDio\bin\Debug\net6.0\appCadastroDio.pdb
+D:\DigitalInnovationOne\appCadastro\appCadastroDio\obj\Debug\net6.0\appCadastroDio.csproj.AssemblyReference.cache
+D:\DigitalInnovationOne\appCadastro\appCadastroDio\obj\Debug\net6.0\appCadastroDio.GeneratedMSBuildEditorConfig.editorconfig
+D:\DigitalInnovationOne\appCadastro\appCadastroDio\obj\Debug\net6.0\appCadastroDio.AssemblyInfoInputs.cache
+D:\DigitalInnovationOne\appCadastro\appCadastroDio\obj\Debug\net6.0\appCadastroDio.AssemblyInfo.cs
+D:\DigitalInnovationOne\appCadastro\appCadastroDio\obj\Debug\net6.0\appCadastroDio.csproj.CoreCompileInputs.cache
+D:\DigitalInnovationOne\appCadastro\appCadastroDio\obj\Debug\net6.0\appCadastroDio.dll
+D:\DigitalInnovationOne\appCadastro\appCadastroDio\obj\Debug\net6.0\ref\appCadastroDio.dll
+D:\DigitalInnovationOne\appCadastro\appCadastroDio\obj\Debug\net6.0\appCadastroDio.pdb
+D:\DigitalInnovationOne\appCadastro\appCadastroDio\obj\Debug\net6.0\appCadastroDio.genruntimeconfig.cache
